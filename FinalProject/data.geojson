@@ -1,0 +1,772 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3414943,47.6094208 ]
+    },
+    "properties": {
+    "ID":1,
+    "Name":"Cinnamon Works",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3428619,47.6094864 ]
+    },
+    "properties": {
+    "ID":2,
+    "Name":"Honest Busicuits",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3428619,47.6094864 ]
+    },
+    "properties": {
+    "ID":3,
+    "Name":"Indi Chocolate",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3421932,47.6098383 ]
+    },
+    "properties": {
+    "ID":4,
+    "Name":"Michou Deli",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3412232,47.6092231 ]
+    },
+    "properties": {
+    "ID":5,
+    "Name":"Mr. D's Greek Delicacies",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3406912,47.6085799 ]
+    },
+    "properties": {
+    "ID":6,
+    "Name":"Pike's Pit Bar-B-Que",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3402049,47.608654 ]
+    },
+    "properties": {
+    "ID":7,
+    "Name":"Seattle Bagel Bakery",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3424736,47.6100753 ]
+    },
+    "properties": {
+    "ID":8,
+    "Name":"The Original Starbucks",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3408606,47.6094528 ]
+    },
+    "properties": {
+    "ID":9,
+    "Name":"Taproom at Pike Place",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3408399,47.6090804 ]
+    },
+    "properties": {
+    "ID":10,
+    "Name":"Three Girls Bakery",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3407878,47.6086384 ]
+    },
+    "properties": {
+    "ID":11,
+    "Name":"Uli's Famous Sausage",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.340741,47.6093141 ]
+    },
+    "properties": {
+    "ID":12,
+    "Name":"El Borracho - Pike Place Market",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3410666,47.6087907 ]
+    },
+    "properties": {
+    "ID":13,
+    "Name":"Woodring Northwest",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3423139,47.6099112 ]
+    },
+    "properties": {
+    "ID":14,
+    "Name":"Piroshky Piroshky",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3423139,47.6099121 ]
+    },
+    "properties": {
+    "ID":15,
+    "Name":"Country Dough",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3426712,47.6101956 ]
+    },
+    "properties": {
+    "ID":16,
+    "Name":"Emmett Watson's Oyster Bar",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3421141,47.6098543 ]
+    },
+    "properties": {
+    "ID":17,
+    "Name":"Japanese Gourmet Restaurant",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3421149,47.6098549 ]
+    },
+    "properties": {
+    "ID":18,
+    "Name":"Urara Japanese Cuisine",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3414237,47.6093634 ]
+    },
+    "properties": {
+    "ID":19,
+    "Name":"Confectional",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3412742,47.6092527 ]
+    },
+    "properties": {
+    "ID":20,
+    "Name":"Juice Emporium",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3413505,47.6093252 ]
+    },
+    "properties": {
+    "ID":21,
+    "Name":"Mee Sum Pastry",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3413144,47.6092882 ]
+    },
+    "properties": {
+    "ID":22,
+    "Name":"Truffle Queen",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3407392,47.608607 ]
+    },
+    "properties": {
+    "ID":23,
+    "Name":"Market Grill",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3410473,47.608709 ]
+    },
+    "properties": {
+    "ID":24,
+    "Name":"Red Cedar & Sage",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3411258,47.6094028 ]
+    },
+    "properties": {
+    "ID":25,
+    "Name":"Ghost Alley Espresso",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3403461,47.608606 ]
+    },
+    "properties": {
+    "ID":26,
+    "Name":"Alibi Room",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3404125,47.6085633 ]
+    },
+    "properties": {
+    "ID":27,
+    "Name":"Maximilien Restaurant",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3402049,47.608654 ]
+    },
+    "properties": {
+    "ID":28,
+    "Name":"IL Bistro",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3402055,47.60866 ]
+    },
+    "properties": {
+    "ID":29,
+    "Name":"Crepe De France",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3401186,47.6086421 ]
+    },
+    "properties": {
+    "ID":30,
+    "Name":"DeLaurenti Food & Wine",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3400108,47.6085252 ]
+    },
+    "properties": {
+    "ID":31,
+    "Name":"La Vaca",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.340234,47.6086378 ]
+    },
+    "properties": {
+    "ID":32,
+    "Name":"Umai Sushi & Teriyaki",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.340378,47.608896 ]
+    },
+    "properties": {
+    "ID":33,
+    "Name":"Matt's in the Market",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3405219,47.6088315 ]
+    },
+    "properties": {
+    "ID":34,
+    "Name":"Pike Place Fish Market",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3404903,47.6090366 ]
+    },
+    "properties": {
+    "ID":35,
+    "Name":"Falafel King",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3408606,47.6094528 ]
+    },
+    "properties": {
+    "ID":36,
+    "Name":"Shug's Soda Fountain and Ice Cream",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3410502,47.6095595 ]
+    },
+    "properties": {
+    "ID":37,
+    "Name":"Steelhead Diner",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.341279,47.6095037 ]
+    },
+    "properties": {
+    "ID":38,
+    "Name":"Farvahar Persian Café",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.341284,47.6095042 ]
+    },
+    "properties": {
+    "ID":39,
+    "Name":"Jasmine Thai Restaurant",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.341274,47.6095032 ]
+    },
+    "properties": {
+    "ID":40,
+    "Name":"Sisters European Café",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.341275,47.6095035 ]
+    },
+    "properties": {
+    "ID":41,
+    "Name":"Pike Place Chowder",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.341275,47.60889 ]
+    },
+    "properties": {
+    "ID":42,
+    "Name":"Radiator Whiskey",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.34122,47.60921 ]
+    },
+    "properties": {
+    "ID":43,
+    "Name":"Copacabana Restaurant",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.340851,47.6091 ]
+    },
+    "properties": {
+    "ID":44,
+    "Name":"Los Agaves",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.34137,47.60899 ]
+    },
+    "properties": {
+    "ID":45,
+    "Name":"Lowell's Restaurant",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.34111,47.60883 ]
+    },
+    "properties": {
+    "ID":46,
+    "Name":"Pike Place Chinese Cuisine",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3401608,47.6086389 ]
+    },
+    "properties": {
+    "ID":47,
+    "Name":"Mariscos Mexico",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3434982,47.61017609 ]
+    },
+    "properties": {
+    "ID":48,
+    "Name":"Tamales ",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3434982,47.61017609 ]
+    },
+    "properties": {
+    "ID":49,
+    "Name":"Old Stove Brewing",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3413181,47.6098967 ]
+    },
+    "properties": {
+    "ID":50,
+    "Name":"Chan Seattle",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3413183,47.609897 ]
+    },
+    "properties": {
+    "ID":51,
+    "Name":"Bacco Café",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3407669,47.60965347 ]
+    },
+    "properties": {
+    "ID":52,
+    "Name":"Biscuit Bitch",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.341301,47.6103096 ]
+    },
+    "properties": {
+    "ID":53,
+    "Name":"Kastoori Grill",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3407669,47.60965347 ]
+    },
+    "properties": {
+    "ID":54,
+    "Name":"Virginia Inn",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3431229,47.6103399 ]
+    },
+    "properties": {
+    "ID":55,
+    "Name":"Turkish Delight",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3427429,47.61013794 ]
+    },
+    "properties": {
+    "ID":56,
+    "Name":"Chocolate & Ice Cream Delight",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3416138,47.60970306 ]
+    },
+    "properties": {
+    "ID":57,
+    "Name":"Kells Irish Restaurant & Bar",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3422197,47.6103021 ]
+    },
+    "properties": {
+    "ID":58,
+    "Name":"Cantina de San Patricio",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3419884,47.6101688 ]
+    },
+    "properties": {
+    "ID":59,
+    "Name":"The Chocolate Market",
+    "FIELD5":"",
+    "FIELD6":""
+    }
+  }
+]
+}
