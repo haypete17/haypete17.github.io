@@ -40,7 +40,7 @@
                 return {color: feature.properties.color};
             }
           }).bindPopup(function (layer) {
-            return layer.feature.properties.Name+"      ;    "+layer.feature.properties.Website+"     ;     "+layer.feature.properties.Phone+"     ;     "+layer.feature.properties.Open;
+            return layer.feature.properties.Name+" ; "+layer.feature.properties.Website+" ; "+layer.feature.properties.Phone+" ; "+layer.feature.properties.Open;
           }).addTo(map);
 
           var imagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
